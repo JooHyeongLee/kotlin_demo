@@ -1,14 +1,13 @@
 import kotlinx.coroutines.*
 
 fun main() = runBlocking<Unit> {
-    val a = async {
-        6
+
+    val pre = async {
+        Main().parserTest()
     }
 
-    val b = async {
-        7
-    }
 
+    pre.await()
 //    Main().hashMapTest();
-    Main().parserTest();
+
 }
