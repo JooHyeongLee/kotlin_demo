@@ -4,9 +4,11 @@ public class Sample {
     private String employee;
     private String firstname;
     private String lastname;
+    private int id;
     private int salary;
 
     public Sample() {
+        this.id = 0;
         this.employee = "";
         this.firstname = "";
         this.lastname = "";
@@ -45,9 +47,18 @@ public class Sample {
         this.salary = salary;
     }
 
+    public int getId() {
+        return id;
+    }
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
     @Override
     public String toString() {
         return "Sample{" +
+                "id='" + id + '\'' +
                 "employee='" + employee + '\'' +
                 ", firstname='" + firstname + '\'' +
                 ", lastname='" + lastname + '\'' +
