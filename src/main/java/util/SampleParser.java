@@ -19,9 +19,7 @@ public class SampleParser{
             saxParser.parse(file, handler);
 
             List<Sample> list = handler.getSampleList();
-            for(Sample s : list) {
-                System.out.println(s.toString());
-            }
+            list.forEach(System.out::println);
         } catch(Exception e) {
             e.printStackTrace();
         }
