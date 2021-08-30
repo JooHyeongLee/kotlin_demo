@@ -4,15 +4,15 @@
     <list default="true" id="14c988ab-4bd1-4287-9e2d-6ef1ab07a61c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/util/SampleHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/SampleHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/util/SampleParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/SampleParser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
@@ -72,17 +72,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/Main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+            <state relative-caret-position="120">
+              <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#62#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -93,14 +96,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/util/SampleHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="79" column="25" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
+            <state relative-caret-position="152">
+              <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1631#1632#0" expanded="true" />
-                <element signature="e#1664#1665#0" expanded="true" />
-                <element signature="e#2614#2615#0" expanded="true" />
-                <element signature="e#2642#2643#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#696#697#0" expanded="true" />
+                <element signature="e#2610#2611#0" expanded="true" />
+                <element signature="e#2643#2644#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -109,7 +112,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/data/Gpx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
+            <state relative-caret-position="524">
               <caret line="55" column="56" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -119,11 +122,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/util/SampleParser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+            <state relative-caret-position="139">
+              <caret line="27" column="63" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -155,6 +158,8 @@
       <find>KotlinCompile</find>
       <find>mani</find>
       <find>attributes</find>
+      <find>파싱</find>
+      <find>pointList</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -169,15 +174,15 @@
         <option value="$PROJECT_DIR$/src/main/java/data/XmlData.java" />
         <option value="$PROJECT_DIR$/src/main/resources/sample.xml" />
         <option value="$PROJECT_DIR$/src/main/java/util/Parser.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
         <option value="$PROJECT_DIR$/src/main/java/data/Sample.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
         <option value="$PROJECT_DIR$/src/main/java/data/Gpx.java" />
-        <option value="$PROJECT_DIR$/src/main/java/util/SampleHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/util/SampleParser.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/SampleHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/Main.kt" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
       </list>
     </option>
   </component>
@@ -206,65 +211,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="kotlin_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin_demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin_demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin_demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin_demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin_demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin_demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin_demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kotlin_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kotlin_demo" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -276,6 +222,50 @@
               <item name="kotlin_demo" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="kotlin_demo" type="2674bda8:ScopeViewTreeModel$GroupNode" />
               <item name="main" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="kotlin_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin_demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kotlin_demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kotlin_demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="kotlin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,7 +284,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Kotlin" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -348,12 +338,13 @@
       <workItem from="1629094896656" duration="22226000" />
       <workItem from="1629943527955" duration="4696000" />
       <workItem from="1629967585309" duration="263000" />
-      <workItem from="1629974796498" duration="5669000" />
+      <workItem from="1629974796498" duration="5705000" />
+      <workItem from="1630326556085" duration="4614000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35360000" />
+    <option name="totallyTimeSpent" value="40010000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -368,7 +359,7 @@
     <frame x="0" y="25" width="1280" height="707" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17528272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17770597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -377,13 +368,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32840723" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32840723" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.32840723" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32840723" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -439,13 +430,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -474,26 +458,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Main.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        <state relative-caret-position="75">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data/Gpx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
+        <state relative-caret-position="524">
           <caret line="55" column="56" selection-start-line="55" selection-start-column="56" selection-end-line="55" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -502,24 +476,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/SampleHandler.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.12.jdk/Contents/Home/lib/src.zip!/java.base/java/util/concurrent/ThreadPoolExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="79" column="25" selection-start-line="79" selection-start-column="25" selection-end-line="79" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1631#1632#0" expanded="true" />
-            <element signature="e#1664#1665#0" expanded="true" />
-            <element signature="e#2614#2615#0" expanded="true" />
-            <element signature="e#2642#2643#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="120">
+          <caret line="1317" column="16" selection-start-line="1317" selection-start-column="16" selection-end-line="1317" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/util/SampleParser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        <state relative-caret-position="139">
+          <caret line="27" column="63" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/SampleHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#2610#2611#0" expanded="true" />
+            <element signature="e#2643#2644#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.4.1/c9619d548a64a55dd2de19fb7bc6ab2baf1cf751/kotlinx-coroutines-core-1.4.1-sources.jar!/commonMain/Deferred.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/Main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
